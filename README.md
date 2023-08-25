@@ -1,7 +1,7 @@
 # node-exporter-localhost
 A config for docker compose to deploy node-exporter+prometheus exposed on port 9090 
 
-Warning : it exposes port 9090 for 0.0.0.0 (All IP Addresses)
+Warning : it exposes port 9090 for 0.0.0.0 (All IP Addresses on the same Network)
 
 
 # To deploy
