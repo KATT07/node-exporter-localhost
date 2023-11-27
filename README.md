@@ -4,7 +4,7 @@ A config for docker compose to deploy node-exporter+prometheus exposed on port 9
 Warning : it exposes port 9090 for 0.0.0.0 (All IP Addresses on the same Network)
 
 # Before u start
-please ensure Docker compose is installed / if not here is the script to install docker + docker compose -> https://github.com/docker/docker-install
+please ensure Docker compose is installed                                                                                                                                                                                                      if not here is the script to install docker + docker compose -> https://github.com/docker/docker-install
 ```
 curl -fsSL https://get.docker.com -o get-docker.sh
 sh ./get-docker.sh
